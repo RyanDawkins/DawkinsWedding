@@ -80,7 +80,7 @@
                     <div class="col-sm-12 text-center">
                         <span class="banner-logo"></span>
 
-                        <h2><span class="banner-logo">Ryan & Maddy <small>are getting married</small></span></h2>
+                        <h2><span class="banner-logo">Ryan &#38; Maddy <small>are getting married</small></span></h2>
                     </div>
                 </div>
 
