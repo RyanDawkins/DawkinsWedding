@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>John & Jane - Onepage Responsive Weeding Template | Bootstrap HTML5 Template</title>
+	<title>Ryan & Maddy's Wedding</title>
 	<meta name="description" content="Bootstrap 3 Wedding Template by CodePassenger">
     <meta name="author" content="CodePassenger">
-	
-	<!-- Mobile Specific Meta -->	
+
+	<!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
@@ -55,7 +55,7 @@
     <![endif]-->
 </head>
 <body class="greyscale">
-	<!-- Preloader -->      
+	<!-- Preloader -->
     <div id="faceoff">
     	<ul id="pre-loader">
 		  <li></li>
@@ -70,9 +70,9 @@
 		  <li></li>
 		</ul>
 		<div class="preloader-section"></div>
-    </div> 
+    </div>
     <!-- Preloader end -->
-	
+
 	<!-- banner start  -->
 	    <header id="banner" class="banner">
 	    	<div class="wrapper">
@@ -90,7 +90,7 @@
 		    		<div class="row">
 		    			<div class="col-sm-12 text-center">
 		    				<span class="banner-logo">
-		    					<h2>John & Jane <small>are getting married</small></h2> 
+		    					<h2>Ryan & Maddy <small>are getting married</small></h2>
 		    				</span>
 		    			</div>
 		    		</div>
@@ -98,7 +98,7 @@
 		    			<div class="col-sm-offset-3 col-sm-7">
 		    				<div class="timing circle">
 		                        <div id="count-down" style="height:140px;" data-date="2016-01-01 00:00:00">
-		                            
+
 		                        </div>
 		                    </div>
 		                    <!-- /.timing -->
@@ -141,7 +141,7 @@
 		                  <li><a href="#gallery">Gallery</a></li>
 		                  <li><a href="#blog">Blog</a></li>
 		                  <li><a href="#contact">RSVP</a></li>
-		                </ul>             
+		                </ul>
 		              </div><!-- /.navbar-collapse -->
 		            </div>
 		            <div class="col-sm-2 mobile-pos">
@@ -159,7 +159,7 @@
 	<!-- navigation end -->
 
 	<!-- couple start -->
-		<section id="couple" class="couple"> 
+		<section id="couple" class="couple">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-12 text-center">
@@ -179,29 +179,7 @@
 										<img class="img-responsive" src="images/groom.png" alt="Groom">
 										<div class="thumb-hover">
 											<h5>JOHN DOE <small>groom</small></h5>
-											<p>Lorem ipsum dolor sit amet, consectetur isingelit. <br> 
-                                               nunc, non scelerisque ligula. Crasveljusto nulla <br> VestibulumaPraesent sit amet phare.
-                                            </p>
-                                            <ul class="social-icon">
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											</ul>
-											<!-- /.social-icon end -->
-										</div>
-										<!-- /.thumb-hover -->										
-									</div>
-									<!-- /.thumb-img -->									
-								</div>
-								<!-- /.thumbnail-block-->
-							</div>
-							<div class="col-sm-offset-2 col-sm-5">
-								<div class="thumbnail-block wow animated fadeInRight">
-									<div class="thumb-img">
-										<img class="img-responsive" src="images/bride.png" alt="Bride">
-										<div class="thumb-hover">
-											<h5>JANE DOE <small>bride</small></h5>
-											<p>Lorem ipsum dolor sit amet, consectetur isingelit. <br> 
+											<p>Lorem ipsum dolor sit amet, consectetur isingelit. <br>
                                                nunc, non scelerisque ligula. Crasveljusto nulla <br> VestibulumaPraesent sit amet phare.
                                             </p>
                                             <ul class="social-icon">
@@ -213,7 +191,29 @@
 										</div>
 										<!-- /.thumb-hover -->
 									</div>
-									<!-- /.thumb-img -->									
+									<!-- /.thumb-img -->
+								</div>
+								<!-- /.thumbnail-block-->
+							</div>
+							<div class="col-sm-offset-2 col-sm-5">
+								<div class="thumbnail-block wow animated fadeInRight">
+									<div class="thumb-img">
+										<img class="img-responsive" src="images/bride.png" alt="Bride">
+										<div class="thumb-hover">
+											<h5>JANE DOE <small>bride</small></h5>
+											<p>Lorem ipsum dolor sit amet, consectetur isingelit. <br>
+                                               nunc, non scelerisque ligula. Crasveljusto nulla <br> VestibulumaPraesent sit amet phare.
+                                            </p>
+                                            <ul class="social-icon">
+												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+											</ul>
+											<!-- /.social-icon end -->
+										</div>
+										<!-- /.thumb-hover -->
+									</div>
+									<!-- /.thumb-img -->
 								</div>
 								<!-- /.thumbnail-block -->
 							</div>
@@ -235,7 +235,7 @@
  					<div class="col-sm-12 text-center">
  						<div class="heading wow animated fadeInUp">
 							<h3>Our Love Story</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra <br>nunc,  non scelerisque ligula.    
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra <br>nunc,  non scelerisque ligula.
                             Crasveljusto nulla Vestibuluma.</p>
 						</div>
 						<!-- /.heading end -->
@@ -245,16 +245,16 @@
  					<div class="col-sm-12">
  						<div class="timeline-story">
  							<div class="timeline">
- 								<span class="love-sign wow animated pulse">2013</span>
+ 								<span class="love-sign wow animated pulse">2011</span>
  								<div class="timeline-left pull-left">
  								    <div class="timeline-block-left">
  								    	<span class="timeline-meta">
-	 										25 of september
+	 										22 of December
 	 									</span>
 	 									<div class="timeline-thumbnail wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1s">
 	 										<img class="img-thumbnail" src="images/love_story_01.jpg" alt="Love Story">
 	 									</div>
-	 								</div> 									
+	 								</div>
  								</div>
  								<!-- /.timeline-left -->
  								<div class="timeline-right pull-right">
@@ -263,9 +263,9 @@
 	 										<h4>we have met each other</h4>
 	 									</div>
 	 									<div class="timeline-body">
-	 										Lorem ipsum dolor sit amet,consectetur adipiing elit.Morbi nec con vallis ipsum,et pharlorraesent dignissim viverra metus.
+											We first met at Orange Leaf with Whitney. We talked about the Hunger Games Trilogy since we both had read the books.
 	 									</div>
- 								    </div> 									
+ 								    </div>
  								</div>
  								<!-- /.timeline-right -->
  								<div class="clearfix"></div>
@@ -281,7 +281,7 @@
 	 									<div class="timeline-thumbnail wow animated fadeInLeft" data-wow-delay="0.6s" data-wow-duration="1s">
 	 										<img class="img-thumbnail" src="images/love_story_02.jpg" alt="Love Story">
 	 									</div>
-	 								</div> 									
+	 								</div>
  								</div>
  								<!-- /.timeline-left -->
  								<div class="timeline-right reverse pull-right">
@@ -292,7 +292,7 @@
 	 									<div class="timeline-body">
 	 										Lorem ipsum dolor sit amet,consectetur adipiing elit.Morbi nec con vallis ipsum,et pharlorraesent dignissim viverra metus.
 	 									</div>
- 								    </div> 									
+ 								    </div>
  								</div>
  								<!-- /.timeline-right -->
  								<div class="clearfix"></div>
@@ -308,7 +308,7 @@
 	 									<div class="timeline-thumbnail wow animated fadeInLeft" data-wow-delay="1.2s" data-wow-duration="1s">
 	 										<img class="img-thumbnail" src="images/love_story_03.jpg" alt="Love Story">
 	 									</div>
-	 								</div> 									
+	 								</div>
  								</div>
  								<!-- /.timeline-left -->
  								<div class="timeline-right pull-right">
@@ -319,7 +319,7 @@
 	 									<div class="timeline-body">
 	 										Lorem ipsum dolor sit amet,consectetur adipiing elit.Morbi nec con vallis ipsum,et pharlorraesent dignissim viverra metus.
 	 									</div>
- 								    </div> 									
+ 								    </div>
  								</div>
  								<!-- /.timeline-right -->
  								<div class="clearfix"></div>
@@ -328,7 +328,7 @@
  						</div>
  						<!-- /.timeline-story -->
  					</div>
- 				
+
  				</div>
  			</div>
  		</section>
@@ -377,13 +377,13 @@
 						                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
 									</ul>
 									<!-- /.social-icon end -->
-	 							</div> 								
+	 							</div>
  							</div>
  							<div class="col-sm-4">
 								<div class="people-thumb-img">
 									<img class="img-responsive" src="images/people_maid_of_honor.jpg" alt="MaidOfHonor">
 								</div>
-								<!-- /.people-thumb-img -->								
+								<!-- /.people-thumb-img -->
  							</div>
  						</div>
  					</div>
@@ -393,7 +393,7 @@
  								<div class="people-thumb-img">
 									<img class="img-responsive" src="images/people_bestman.jpg" alt="BestMan">
 								</div>
-								<!-- /.people-thumb-img -->	
+								<!-- /.people-thumb-img -->
  							</div>
  							<div class="col-sm-8">
 	 							<div class="profile">
@@ -425,13 +425,13 @@
 						                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
 									</ul>
 									<!-- /.social-icon end -->
-	 							</div> 								
+	 							</div>
  							</div>
  							<div class="col-sm-4">
 								<div class="people-thumb-img">
 									<img class="img-responsive" src="images/people_bridesmaid.jpg" alt="BridesMaid">
 								</div>
-								<!-- /.thumb-img -->	
+								<!-- /.thumb-img -->
  							</div>
  						</div>
  					</div>
@@ -462,7 +462,7 @@
  			</div>
  		</section>
  	<!-- people end -->
-    
+
     <!-- event start -->
 	 	<section id="event" class="event lightsmoke">
 	 		<div class="container">
@@ -543,7 +543,7 @@
 	 					<div class="gift-block wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1s">
 	 						<a href="#"><img class="img-responsive" src="images/company_01.png" alt="Gift name"></a>
 	 						<span class="gift-overlay">
-	 							
+
 	 						</span>
 	 					</div>
 	 					<!-- /.gift-block end -->
@@ -552,7 +552,7 @@
 	 					<div class="gift-block wow animated fadeInUp" data-wow-delay=".6s" data-wow-duration="1s">
 	 						<a href="#"><img class="img-responsive" src="images/company_02.png" alt="Gift name"></a>
 	 						<span class="gift-overlay">
-	 							
+
 	 						</span>
 	 					</div>
 	 					<!-- /.gift-block end -->
@@ -561,7 +561,7 @@
 	 					<div class="gift-block wow animated fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">
 	 						<a href="#"><img class="img-responsive" src="images/company_03.png" alt="Gift name"></a>
 	 						<span class="gift-overlay">
-	 							
+
 	 						</span>
 	 					</div>
 	 					<!-- /.gift-block end -->
@@ -591,7 +591,7 @@
 								<a href="images/gallery/gallery_image_01.jpg" class="caption gallery-popup">
 									<h5>Happy Moment</h5>
 									<span class="img_category">Engagement</span>
-							</a>	 						
+							</a>
 	 						</div>
 							<div class="item">
 								<img src="images/gallery/gallery_thumb_02.jpg" alt="gallery image">
@@ -618,7 +618,7 @@
 								<img src="images/gallery/gallery_thumb_05.jpg" alt="gallery image">
 								<a href="images/gallery/gallery_image_05.jpg" class="caption gallery-popup">
 									<h5>Happy Moment</h5>
-									<span class="img_category">Engagement</span>								
+									<span class="img_category">Engagement</span>
 								</a>
 							</div>
 							<div class="item">
@@ -657,7 +657,7 @@
  					<div class="col-sm-12 text-center">
  						<div class="heading wow animated fadeInUp">
 							<h3>Our Blog</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra 
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra
                             <br>nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
 						</div>
 						<!-- /.heading end -->
@@ -665,7 +665,7 @@
  				</div>
  				<div class="row">
  					<div class="col-sm-6 col-md-4">
- 						<div class="blog-post wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1s">						
+ 						<div class="blog-post wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1s">
  							<div class="blog-head">
 	 							<div class="blog-meta">
 	 								<ul>
@@ -680,7 +680,7 @@
  							<div class="blog-thumb">
  								<img class="img-responsive" src="images/blog_thumbnail_01.jpg" alt="Blog image">
  								<div class="blog-thumb-hover">
- 									Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi. 
+ 									Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi.
  								</div>
  							</div>
  							<!-- /.blog-thumb -->
@@ -689,7 +689,7 @@
  						<!-- /.blog-post -->
  					</div>
  					<div class="col-sm-6 col-md-4">
- 						<div class="blog-post wow animated fadeInUp" data-wow-delay=".6s" data-wow-duration="1s"> 							
+ 						<div class="blog-post wow animated fadeInUp" data-wow-delay=".6s" data-wow-duration="1s">
  							<div class="blog-head">
 	 							<div class="blog-meta">
 	 								<ul>
@@ -704,7 +704,7 @@
  							<div class="blog-thumb">
  								<img class="img-responsive" src="images/blog_thumbnail_02.jpg" alt="Blog image">
  								<div class="blog-thumb-hover">
- 									Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi. 
+ 									Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi.
  								</div>
  							</div>
  							<!-- /.blog-thumb -->
@@ -713,7 +713,7 @@
  						<!-- /.blog-post -->
  					</div>
  					<div class="col-sm-6 col-md-4">
- 						<div class="blog-post wow animated fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s"> 							
+ 						<div class="blog-post wow animated fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">
  							<div class="blog-head">
 	 							<div class="blog-meta">
 	 								<ul>
@@ -728,7 +728,7 @@
  							<div class="blog-thumb">
  								<img class="img-responsive" src="images/blog_thumbnail_03.jpg" alt="Blog image">
  								<div class="blog-thumb-hover">
- 									Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi. 
+ 									Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi.
  								</div>
  							</div>
  							<!-- /.blog-thumb -->
@@ -759,14 +759,14 @@
         </section>
     <!-- .quote end -->
 
-    <!-- contact start --> 
+    <!-- contact start -->
 		<section id="contact" class="contact">
 			<div class="container">
 				<div class="row">
  					<div class="col-sm-12 text-center">
  						<div class="heading wow animated fadeInUp">
 							<h3>RSVP</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra 
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra
                                <br> nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
 						</div>
 						<!-- /.heading end -->
@@ -777,11 +777,11 @@
 						<h5>contact info</h5>
 						<div class="contact-address">
 							<ul>
-								<li>									
+								<li>
 									<i class="fa fa-home"></i>
 									<div class="address-phone">
 										<h4>address</h4>
-										<span>63739 street lorem</span> 
+										<span>63739 street lorem</span>
 										<span>City, Country</span>
 									</div>
 									<!-- /.address-phone -->
@@ -855,7 +855,7 @@
 		</section>
 	<!-- contact end -->
 
-    <!-- map start --> 
+    <!-- map start -->
 		<section id="map" class="map"></section>
 	<!-- map end -->
 
@@ -937,7 +937,7 @@
 				   { color: "#9a9efd" },
 				   { weight: 2.2 },
 				   { gamma: 2.54 }
-				  ] 
+				  ]
 				},
 				{
 				  featureType: "road",
