@@ -544,10 +544,10 @@
                         <div class="event-img"><img alt="Event name" class="img-responsive" src="images/event_01.png"></div><!-- /.event-img end -->
 
                         <div class="event-body">
-                            <h5><a href="blog-single-greyscale.html">BACHELOR PARTY</a></h5>
+                            <h5><a href="blog-single-greyscale.html">BRIDAL SHOWER</a></h5>
 
-                            <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p><span class="event-date">July 14th <span class=
-                            "event-year">2015</span></span>
+                            <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p><span class="event-date">TBA <span class=
+                            "event-year">2016</span></span>
                         </div><!-- /.event-body end -->
                     </div><!-- /.event-block end -->
                 </div>
@@ -557,10 +557,10 @@
                         <div class="event-img"><img alt="Event name" class="img-responsive" src="images/event_02.png"></div><!-- /.event-img end -->
 
                         <div class="event-body">
-                            <h5><a href="blog-single-greyscale.html">WEDDING CEREMONY</a></h5>
+                            <h5><a href="blog-single-greyscale.html">BACHELOR & BACHELORETTE PARTY</a></h5>
 
-                            <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p><span class="event-date">July 14th <span class=
-                            "event-year">2015</span></span>
+                            <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p><span class="event-date">TBA <span class=
+                            "event-year">2016</span></span>
                         </div><!-- /.event-body end -->
                     </div><!-- /.event-block end -->
                 </div>
@@ -570,10 +570,10 @@
                         <div class="event-img"><img alt="Event name" class="img-responsive" src="images/event_03.png"></div><!-- /.event-img end -->
 
                         <div class="event-body">
-                            <h5><a href="blog-single-greyscale.html">WEDDING PARTY</a></h5>
+                            <h5><a href="blog-single-greyscale.html">WEDDING CEREMONY</a></h5>
 
-                            <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p><span class="event-date">July 14th <span class=
-                            "event-year">2015</span></span>
+                            <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p><span class="event-date">June 11 <span class=
+                            "event-year">2016</span></span>
                         </div><!-- /.event-body end -->
                     </div><!-- /.event-block end -->
                 </div>
