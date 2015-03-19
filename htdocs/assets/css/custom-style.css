@@ -1,0 +1,256 @@
+/*
+===================================================
+Custom stylesheet for Version 2 will overwrite the existing style
+===================================================
+*/
+
+
+/*
+========================================================================
+Index
+------------------------------------------------------------------------
+
+# -  1.0 - General section styles
+# -  2.0 - nav section styles
+# -  3.0 - Banner section styles
+# -  4.0 - Couple section styles
+# -  5.0 - Stroy setion styles
+# -  6.0 - RSVP section styles
+# -  7.0 - People feature section styles
+# -  8.0 - Event section styles
+# -  9.0 - Gift section styles
+# - 10.0 - Gallery section styles
+# - 11.0 - Blog section styles
+# - 12.0 - Quote section styles
+# - 13.0 - Contact section styles
+# - 14.0 - Blog post section styles
+# - 15.0 - Single bolg post section styles
+# - 16.0 - Footer section styles
+
+*/
+
+/*
+========================================================================
+# 1.0 - General styles
+------------------------------------------------------------------------
+*/
+
+
+/*
+========================================================================
+# 2.0 - Banner styles
+------------------------------------------------------------------------
+*/
+
+.timing .time_circles > div {
+    padding: 0px 14px;
+}
+
+.timing .time_circles > div > span[style] {
+        background: #FF6565;
+    color: #FFF;
+    border-radius: 20px 20px 0px 0px;
+    display: block;
+    padding: 10px 0px;
+}
+
+.timing .time_circles > div > h4[style] {
+    padding: 8px 0;
+    background: none repeat scroll 0% 0% rgba(212, 70, 70, 0.3);
+    color: #FFF;
+    text-transform: capitalize;
+    border-radius: 0px 0px 20px 20px;
+    display: block;
+}
+
+.time_circles > div > h4 {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/*
+========================================================================
+# 3.0 - Couple styles
+------------------------------------------------------------------------
+*/
+
+.thumbnail-block-content {
+	position:relative;
+	background: #fff;
+	border-radius: 0;
+}
+.thumb-img-content {
+	position:relative;
+	border-radius: 15px 15px 0 0;
+	margin-bottom: 2px;
+	height: auto;
+	overflow: hidden;
+}
+.thumb-img-content img {
+	border-radius: 20px 20px 0 0;
+	width: 100%;
+}
+
+.thumb-img-content h5 {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+    position: absolute;
+    bottom: 0px;
+	background: rgba(212, 70, 70, 0.3);
+    margin-bottom: 0;
+    color: #fff;
+    padding: 10px 45px;
+}
+.thumb-img-content h5:after {
+	content: "";
+	position: absolute;
+	top: -1px;
+	right: -48px;
+	width: 0;
+	height: 0px;
+	border-style: solid;
+	border-width: 45px 38px 0px 10px;
+	border-color: transparent transparent transparent rgba(212, 70, 70, 0.3);
+}
+.thumbnail-detail {
+    background: #FF6565;
+    padding: 20px 15px;
+    color: #fff;
+    border-radius: 0 0px 20px 20px;
+    text-align: center;
+}
+.couple .thumbnail-detail .social-icon li {
+	display: inline-block;
+	float: none;
+	margin: 10px 15px 0;
+}
+.thumbnail-detail .social-icon li a {
+	color: #fff;
+}
+
+/*
+========================================================================
+# 3.0 - Timeline styles
+------------------------------------------------------------------------
+*/
+
+.timeline-block-content {
+    position: relative;
+}
+.timeline-block-content .timeline-head {
+    margin-top: 90px;
+    width: 96%;
+    text-align: center;
+}
+.timeline-block-content .timeline-head h4 {
+	font-family: 'Lobster', cursive;
+}
+.timeline-block-content:before {
+	content: "";
+	width: 5px;
+	height: 100%;
+	position: absolute;
+	left: 33%;
+	background: #D44646;
+}
+.timeline-block-left {
+	float: left;
+	text-align: left;
+	width: auto;
+	margin-bottom: 0;
+	margin-right: 20px;
+}
+.timeline-block-left img {
+	width: 300px;
+}
+.timeline-meta {
+	display: block;
+	width: 96%;
+	margin-top: 100px;
+	font-family: 'Lobster', cursive;
+	color: #B6B6B6;
+	font-size: 14px;
+	text-transform: capitalize;
+    font-weight: normal;
+}
+.timeline-left-content {
+	width: 96%;
+	background: #fff;
+}
+.timeline-body {
+	padding: 20px 20px;
+}
+
+/*
+========================================================================
+# 4.0 - Peoples styles
+------------------------------------------------------------------------
+*/
+
+.people-thumb-img {
+	margin-bottom: 2px;
+}
+.people-thumb-img img {
+	border-radius: 20px 20px 0 0;
+	width: 100%;
+}
+.people .social-icon {
+    text-align: center;
+}
+.people .thumbnail-detail .social-icon li:first-child {
+    margin-left: 0;
+}
+/*
+========================================================================
+# 5.0 - Blog styles
+------------------------------------------------------------------------
+*/
+
+.blog-thumb-hover {
+	border-top: 3px solid #d44646;
+	text-align: center;
+	height: auto;
+}
+.blog-post:hover .blog-thumb-hover {
+    bottom: 0%;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.blog-head {
+    padding: 30px 0 10px;
+}
+.blog-meta ul {
+	margin: 0;
+}
+.blog-meta ul li {
+    float: none;
+    display: inline-block;
+    margin: 0 10px 0;
+}
+.blog-link {
+	bottom: -27px;
+	-webkit-transition: .3s ease;
+	   -moz-transition: .3s ease;
+	    -ms-transition: .3s ease;
+	     -o-transition: .3s ease;
+	        transition: .3s ease;
+} 
+.blog-post:hover .blog-link {
+	bottom: 40%;
+	background: #d44646;
+	color: #fff;
+}
+.love-v-sign {
+	position: absolute;
+	top: 92px;
+	left: -18px;
+	width: 44px;
+	height: 40px;
+	background: url(../../images/icon/love_v2.png) no-repeat center center;
+}
+
+#go-to-top .fa, footer a .fa {
+    border-radius: 2px;
+}

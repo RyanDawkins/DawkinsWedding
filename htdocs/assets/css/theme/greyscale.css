@@ -1,0 +1,202 @@
+/*
+----------------------------------------------------------
+Greyscale stylesheet will overwrite the default stylesheet
+----------------------------------------------------------
+*/
+.greyscale .banner .color-overlay {
+	background: rgba(15,15,15,.2);
+}
+.greyscale .banner-logo {
+	background: url(../../../images/greyscale/greyscale_main_logo.png) no-repeat center center;
+}
+.greyscale .timing .time_circles > div > span[style] {
+	color: #fff;
+}
+.greyscale .timing .time_circles > div > h4 {
+	color: #fff;
+}
+.greyscale .nav-block,
+.greyscale .nav-block .navbar-default {
+    background: #454545;
+}
+.greyscale .heading h3 {
+    color: #454545;
+}
+.greyscale .heading h3::before {
+    content: url(../../../images/greyscale/greyscale_heading_left.png);
+}
+.greyscale .heading h3::after {
+    content: url(../../../images/greyscale/greyscale_heading_right.png);
+}
+.greyscale .thumb-hover {
+	background: rgba(69,69,69,.9);
+}
+.greyscale .thumb-img {
+	border-color: #454545;
+}
+.greyscale .couple {
+	background: url(../../../images/greyscale/greyscale_love_twist.png) no-repeat 50% 65%;
+}
+.greyscale #story .fa {
+	color: #e1704b;
+}
+.greyscale .love-sign {
+	background: url(../../../images/greyscale/greyscale_love.png) no-repeat center center;
+}
+.greyscale .timeline-head {
+	background: #454545;
+}
+.greyscale .timeline-block-right:before {
+	border-color: transparent #454545 transparent transparent;
+}
+.greyscale .reverse .timeline-block-right:after {
+	border-color: transparent transparent transparent #454545;
+}
+.greyscale .timeline:before {
+	background: #454545;
+}
+.greyscale .contact .default-btn:hover {
+	background: #454545;
+	color: #fff;
+}
+.greyscale .default-btn:hover {
+	background: #454545;
+	border: 1px solid #454545;
+}
+.greyscale .profile h5 {
+    color: #454545;
+}
+.greyscale .people .social-icon li .fa {
+	color: #7b7b7b;
+}
+.greyscale .event-body h5 a {
+	color: #454545;
+}
+.greyscale h5 small {
+	color: #000;
+}
+.greyscale .event-date {
+	background: #454545;
+}
+.greyscale .gift-block:hover {
+	border-color: #454545; 
+}
+.greyscale .item:hover .caption {
+	background: rgba(15,15,15,.2);
+}
+.greyscale .caption {
+
+}
+.greyscale .blog-head h5 a {
+	color: #454545;
+}
+.greyscale .blog-link {
+	color: #454545;
+}
+.greyscale blockquote:before {
+    background: url(../../../images/greyscale/greyscale_block_qoute_left.png) no-repeat;
+}
+.greyscale blockquote:after {
+    background: url(../../../images/greyscale/greyscale_block_qoute_right.png) no-repeat;
+}
+.greyscale .contact h5 {
+	color: #454545;
+}
+.greyscale .contact-address ul li .fa {
+    color: #454545;
+}
+.greyscale .contact .form-control, .greyscale .contact textarea {
+    border: 1px solid #454545;
+}
+.greyscale .sbHolder {
+	border: 1px solid #454545;
+}
+.greyscale .footer-logo {
+    background: url(../../../images/greyscale/greyscale_footer_logo.png) no-repeat center center;
+}
+.greyscale footer a .fa:hover {
+	background-color: #454545;
+	border: 1px solid #454545;
+}
+.greyscale .nav-pills > li.current > a {
+	color: #454545;
+}
+.greyscale .sbToggle {
+	color: #454545;
+}
+.greyscale .contact .default-btn {
+   border: 1px solid #454545;
+   color: #454545;}
+.greyscale .next-arrow a {
+   color: #454545;}
+
+.greyscale #go-to-top .fa:hover {
+	border-color: #454545;
+}
+
+/** Blog Signle Page**/
+.greyscale .single-blog-upper h3 {
+    color: #454545;
+}
+.greyscale .sidebar-single-post h5 {
+    color: #454545;
+}
+.greyscale .popular-post h5:before, .greyscale .wedding-video h5:before {
+   background: #454545;
+}
+
+.greyscale .single-blog-detail blockquote {
+	background: #8B8787;
+}
+.greyscale .single-blog-detail blockquote:before {
+	background: url("../../../images/greyscale/greyscale_qoute_left.png") no-repeat center center;
+}
+.greyscale .single-blog-detail blockquote:after {
+	background: url("../../../images/greyscale/greyscale_qoute_right.png") no-repeat center center;
+}
+.greyscale .single-post-item li .fa {
+	background: #454545;
+}
+.greyscale .single-blog-lower h4 {
+    color: #454545;
+}
+.greyscale .single-blog-lower, .greyscale .comment-block, .greyscale .reply-block {
+	border-color: #454545;
+}
+.greyscale .comment-block > h5, .greyscale .reply-block h5 {
+    color: #454545;
+}
+.greyscale .comment-block .default-btn {
+	background: #8B8787;
+	border: 1px solid #8B8787;
+}
+.greyscale .comment-block .default-btn:hover {
+	color: #181717;
+}
+
+/** Media Query **/
+
+@media screen and (max-width: 480px) {
+	.greyscale .banner-logo {
+		width: 260px;
+		height: 305px;
+		padding: 110px 0;
+		margin: 40px 0 32px;
+	}
+	.greyscale .banner-logo h2 {
+		font-size: 32px;
+	}
+	.greyscale .heading h3::after {
+		content: url(../../../images/greyscale/greyscale_heading_right_responsive.png);
+		width: 50px;
+		height: 23px;
+		right: -60px;
+	}
+	.greyscale .heading h3::before {
+		content: url(../../../images/greyscale/greyscale_heading_left_responsive.png);
+		width: 50px;
+		height: 23px;
+		left: -60px;
+	}
+
+}
